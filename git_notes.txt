@@ -1,3 +1,4 @@
 $ git add # to track files
 # basic commands: log, config, status, add, commit
-# 
+# how to compare commits:
+
