@@ -1,0 +1,7 @@
+$ git add # to track files
+# basic commands: log, config, status, add, commit
+How to compare commits:
+$ git checkout HEAD~1 filename # to rollback and open file one commit back
+# git revert to remove last commit
+# git reset to go back a whole bunch. Read notes on this before using.
+
